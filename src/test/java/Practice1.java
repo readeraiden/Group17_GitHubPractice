@@ -3,6 +3,7 @@ public class Practice1 {
 
         System.out.println("Practice 1 started");
         System.out.println("Some more work");
+        System.out.println("Another work");
     }
 
 }
