@@ -4,6 +4,6 @@ public class Gul {
 
         System.out.println("Hey Guys");
         System.out.println("Lets have fun!");
-        System.out.println("Last added.");
+        System.out.println("Last added");
     }
 }
